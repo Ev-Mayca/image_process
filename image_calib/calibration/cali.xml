@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<images>
+  "./left_image/left01.jpg" "./left_image/left02.jpg"
+  "./left_image/left03.jpg" "./left_image/left04.jpg"
+  "./left_image/left05.jpg" "./left_image/left06.jpg"
+  "./left_image/left07.jpg" "./left_image/left08.jpg"
+  "./left_image/left09.jpg" "./left_image/left11.jpg"
+  "./left_image/left12.jpg" "./left_image/left13.jpg"
+  "./left_image/left14.jpg"</images>
+</opencv_storage>
