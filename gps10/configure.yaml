@@ -1,0 +1,59 @@
+%YAML:1.0
+
+# ----------------------------------------
+#	Common Setting
+# ----------------------------------------
+# Log level: 0: error; 1: warning; 2: info; 3: debug
+LogLevel: 2
+
+# Log type: 0x1: print to screen; 0x2: print to file; 0x4: print to lcm
+LogType: 0x1
+
+# Camera setting file
+CamSettingFile: camera_setting.yaml
+
+# Voc file
+VocFile: ORBvoc.bin
+
+# FPS
+FPS: 30
+
+# Log file
+LogFile: log.txt
+
+# Down scale factor
+DownScaleFactor: 1.0
+
+# ----------------------------------------
+#	Realsense Setting
+# ----------------------------------------
+# LR resolution
+LR_Width: 480
+LR_Height: 360
+
+# RGB resolution
+RGB_Width: 640
+RGB_Height: 480
+
+# Save to file: 0: run slam; 1: save to file
+SaveToFile: 0
+
+# Folder to storage image file
+SaveToFileFolder: DataSet/
+
+# Save L image at same time
+SaveLImage: 0
+
+# ----------------------------------------
+#	File source Setting
+# ----------------------------------------
+# Association File
+AssociationFile: DataSet_1/Association.txt
+
+# Dataset folder
+DataSetFolder: DataSet_1/
+
+# ----------------------------------------
+#	Common Setting
+# ----------------------------------------
+# TBD
